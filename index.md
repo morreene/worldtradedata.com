@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Forty'
+landing-title: 'Resources for traders, consultants, researchers, and policy makers'
 description: null
 image: null
 author: null
