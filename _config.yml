@@ -1,6 +1,6 @@
 # site settings
 title: World Trade Data
-subtitle: Resources around the world
+subtitle: Around the world
 email: youremailaddress@gmail.com
 description: Find data from various trade and economic databases.
 baseurl: "" # the subpath of your site, e.g. /blog
