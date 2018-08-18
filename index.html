@@ -10,8 +10,14 @@ layout: default
 <div id='list-item'>
   <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
   <p class="author">
-    <span class="date">{{ post.date }}</span>
-  </p>
+    <!-- <span class="date">{{ post.date | date: "%B %d, %Y" }}</span> -->
+    <p class="post-date heading">
+      <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time>
+      {% assign category_start     = site.data.strings.category_start     | default:"in " %}
+      {% assign category_separator = site.data.strings.category_separator | default:" / " %}
+      {% include tag-list.html tags=post.categories meta=site.featured_categories start_with=category_start separator=category_separator %}
+    </p>
+
   <div class="content">
     {{ post.excerpt }}
   </div>
