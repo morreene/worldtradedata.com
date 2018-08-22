@@ -4,7 +4,6 @@ title: Databases - Business
 categories: [trade]
 tags: [database, trade, economy]
 ---
-This is the post for [HTML to Markdown Converter](https://www.tablesgenerator.com/markdown_tables)
 
 * [ABRAMS world trade wiki](https://www.abrams.wiki/)
 
