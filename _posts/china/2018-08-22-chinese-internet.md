@@ -1,6 +1,6 @@
 ---
 layout: post
-title: FT: The Chinese internet boom in charts
+title: FT - The Chinese internet boom in charts
 categories: [china, trade]
 tags: [china, environment, trade]
 ---
