@@ -1,7 +1,7 @@
 ---
 layout: list
-title: Life
-slug: life
+title: Economy
+slug: economy
 menu: true
 order: 5
 description: >

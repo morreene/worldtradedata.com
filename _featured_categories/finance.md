@@ -1,7 +1,7 @@
 ---
 layout: list
-title: Stock
-slug: stock
+title: Finance
+slug: finance
 menu: true
 order: 3
 description: >

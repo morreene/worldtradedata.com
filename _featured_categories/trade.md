@@ -1,6 +1,6 @@
 ---
 layout: list
-title: Econ & Trade
+title: Trade
 slug: trade
 menu: true
 order: 2
