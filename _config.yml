@@ -58,6 +58,6 @@ collections:
     permalink:         /category/:name/
     output:            true
 
-  # featured_tags:
-  #   permalink:         /tag/:name/
-  #   output:            true
+  featured_tags:
+    permalink:         /tag/:name/
+    output:            true
