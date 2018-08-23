@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 投资最重要的事
-categories: [stock]
+categories: [finance]
 tags: [stock, reading]
 ---
 2018年1-2月阅读《投资最重要的事》的笔记，摘录和体会。
