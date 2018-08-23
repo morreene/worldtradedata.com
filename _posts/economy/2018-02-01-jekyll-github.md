@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Notes for Jekyll and Github Pages
-categories: [life]
+categories: [economy]
 tags: [website, jekyll]
 ---
 * [使用Jekyll搭建自己的博客-全教程](https://www.jianshu.com/p/c04475ba80e4)
@@ -31,4 +31,3 @@ Can find other template and customized in the Jekyll site, but seems a lot of wo
 * Gallery: Jekyll Themese or http://jekyllthemes.org/
 
 * [Dopetrope](http://themes.jekyllrc.org/dopetrope/) This is good for a business website.
-

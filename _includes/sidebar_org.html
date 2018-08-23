@@ -3,22 +3,16 @@
     <div class="inner">
         <nav id="menu">
           <header class="major">
-            <h2><a href="{{ '/' | absolute_url }}">Databases</a></h2>
+            <h2><a href="{{ '/' | absolute_url }}">{{ site.title }}</a></h2>
           </header>
           <ul>
+            <li><b><br>Databases</b></li>
             <li><a href="{{ 'databases/db-business.html' | absolute_url }}">Business</a></li>
             <li><a href="{{ 'databases/db-customs.html' | absolute_url }}">Customs</a></li>
             <li><a href="{{ 'databases/db-trade.html' | absolute_url }}">Trade</a></li>
-          </ul>
-        </nav>
 
+            <li><b><br>Blog</b></li>
 
-
-        <nav id="menu">
-          <header class="major">
-            <h2><a href="{{ '/' | absolute_url }}">Articles</a></h2>
-          </header>
-          <ul>
             {% assign pages = site.pages | where: "menu", true %}
             {% assign documents = site.documents | where: "menu", true %}
             <!-- {% assign nodes = pages | concat: documents | sort: "order" %} -->
@@ -41,7 +35,7 @@
               {% endunless %}
             {% endfor %}
 
-            <br>
+            <li><b><br>Site</b></li>
             <li><a href="{{ 'about.html' | absolute_url }}">About</a></li>
             <!-- <li><a href="{{ 'categories.html' | absolute_url }}">All Posts</a></li> -->
             <li><a href="{{ 'elements.html' | absolute_url }}">Contact</a></li>

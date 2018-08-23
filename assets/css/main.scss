@@ -10,6 +10,25 @@ blockquote {
 font-style: normal;
 }
 
+header.major > :last-child {
+    border-bottom: solid 3px #f56a6a;
+    display: inline-block;
+    margin: 0 0 0.4em 0;
+    padding: 0 0.75em 0.4em 0;
+}
+
+#sidebar > .inner {
+    padding: 6.2222222222em 2.2222222222em 2.4444444444em 2.2222222222em;
+    position: relative;
+    width: 26em;
+}
+
+#sidebar > .inner > * {
+    border-bottom: solid 0px rgba(210, 215, 217, 0.75);
+    margin: 0 0 1.5em 0;
+    padding: 0 0 1.5em 0;
+}
+
 #main > .inner > section {
     padding: 4em 0 4em 0;
 }
