@@ -11,4 +11,4 @@ tags: [database, trade, economy]
 
 * [WB: DOING BUSINESS](http://www.doingbusiness.org/)
 
-The Doing Business project provides objective measures of business regulations and their enforcement across 190 economies and selected cities at the subnational and regional level.
+ The Doing Business project provides objective measures of business regulations and their enforcement across 190 economies and selected cities at the subnational and regional level.
