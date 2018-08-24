@@ -1,6 +1,6 @@
 ---
 layout: post
-title: FT - The Chinese internet boom in charts
+title: Forbes - China Trade War: Where Are We Now?
 categories: [china, trade]
 tags: [china, environment, trade]
 ---
