@@ -76,7 +76,7 @@
 			> .alt {
 				background-color: darken(_palette(bg-alt), 2);
 				border-bottom: 0;
-				margin: ($pad * -1) 0 ($pad * 2) ($pad * -1);
+				margin: ($pad * -3) 0 ($pad * 2) ($pad * -1);
 				padding: $pad;
 				width: calc(100% + #{$pad * 2});
 			}
@@ -95,7 +95,7 @@
 			overflow: hidden;
 			position: absolute;
 			text-align: center;
-			text-indent: 7.5em;
+			text-indent: -15em;
 			top: 0;
 			width: 6em;
 			z-index: _misc(z-index-base);
