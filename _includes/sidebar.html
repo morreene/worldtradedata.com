@@ -3,7 +3,7 @@
     <div class="inner">
 
       <!-- <section id="search" class="alt">
-        <header class="major1">
+        <header class="major">
           <h2><a href="{{ '/' | absolute_url }}">{{ site.title }}</a></h2>
         </header>
 
@@ -12,12 +12,16 @@
         </form>
       </section> -->
 
-
+      <header class="major">
+        <h2><a href="{{ '/' | absolute_url }}">{{ site.title }}</a></h2>
+      </header>
 
         <nav id="menu">
-          <header class="major">
-            <h2><a href="{{ '/' | absolute_url }}">Databases</a></h2>
-          </header>
+
+          <!-- <header class="major"> -->
+            <!-- <h2><a href="{{ '/' | absolute_url }}">Databases</a></h2> -->
+            <ul><li><b><br>Databases</b></li></ul>
+          <!-- </header> -->
           <ul>
             <li><a href="{{ 'databases/db-business.html' | absolute_url }}">Business</a></li>
             <li><a href="{{ 'databases/db-customs.html' | absolute_url }}">Customs</a></li>
@@ -31,9 +35,10 @@
 
 
         <nav id="menu">
-          <header class="major">
+          <ul><li><b><br>Articles</b></li></ul>
+          <!-- <header class="major">
             <h2><a href="{{ '/' | absolute_url }}">Articles</a></h2>
-          </header>
+          </header> -->
           <ul>
             {% assign pages = site.pages | where: "menu", true %}
             {% assign documents = site.documents | where: "menu", true %}
