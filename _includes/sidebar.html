@@ -1,105 +1,45 @@
 <!-- Sidebar -->
-  <div id="sidebar">
-    <div class="inner">
+<div id="sidebar">
+  <div class="inner">
+    <header class="major">
+      <h2><a href="{{ '/' | absolute_url }}">{{ site.title }}</a></h2>
+    </header>
 
-      <!-- <section id="search" class="alt">
-        <header class="major">
-          <h2><a href="{{ '/' | absolute_url }}">{{ site.title }}</a></h2>
-        </header>
+    <nav id="menu">
+      <!-- <header class="major"> -->
+        <!-- <h2><a href="{{ '/' | absolute_url }}">Databases</a></h2> -->
+        <!-- <ul><li><b><br>Databases</b></li></ul> -->
+      <!-- </header> -->
+      <ul>
+        <li><a href="index.html#general">General</a></li>
+        <li><a href="index.html#tariffs">Tariffs</a></li>
+        <li><a href="index.html#statistics">Statistics</a></li>
+        <li><a href="index.html#customs-classification">Customs Classification</a></li>
+        <li><a href="index.html#non-tariff-measures">Non-tariff Measures</a></li>
+        <li><a href="index.html#wto">WTO</a></li>
+        <li><a href="index.html#visualization">Visualization</a></li>
+        <li><a href="index.html#services">Services</a></li>
+        <li><a href="index.html#economic">Economic</a></li>
+        <li><a href="index.html#other">Other</a></li>
+        <!-- <li><a href="{{ 'databases/db-trade.html' | absolute_url }}">Trade</a></li> -->
+      </ul>
+    </nav>
 
-        <form method="post" action="#">
-          <input type="text" name="query" id="query" placeholder="Search">
-        </form>
-      </section> -->
+      <nav id="menu">
+        <!-- <ul><li><b><br>Articles</b></li></ul> -->
+        <!-- <header class="major">
+          <h2><a href="{{ '/' | absolute_url }}">Articles</a></h2>
+        </header> -->
+        <ul>
+          <br>
+          <li><a href="{{ 'about.html' | absolute_url }}">About</a></li>
+          <!-- <li><a href="{{ 'categories.html' | absolute_url }}">All Posts</a></li> -->
+        </ul>
+      </nav>
 
-      <header class="major">
-        <h2><a href="{{ '/' | absolute_url }}">{{ site.title }}</a></h2>
-      </header>
-
-        <nav id="menu">
-
-          <!-- <header class="major"> -->
-            <!-- <h2><a href="{{ '/' | absolute_url }}">Databases</a></h2> -->
-            <!-- <ul><li><b><br>Databases</b></li></ul> -->
-          <!-- </header> -->
-          <ul>
-            <li><a href="index.html#test-4">Test 4</a></li>
-            <li><a href="index.html#test-1">Test 1</a></li>
-            <li><A href="#section-1">Section One</A></li>
-            <li><a href="{{ 'databases/db-trade.html' | absolute_url }}">Trade</a></li>
-            <li><a href="{{ 'databases/db-business.html' | absolute_url }}">Business</a></li>
-            <li><a href="{{ 'databases/db-customs.html' | absolute_url }}">Customs</a></li>
-            <li><a href="{{ 'databases/db-trade.html' | absolute_url }}">Trade</a></li>
-
-          </ul>
-        </nav>
-
-
-
-
-
-
-        <nav id="menu">
-          <!-- <ul><li><b><br>Articles</b></li></ul> -->
-          <!-- <header class="major">
-            <h2><a href="{{ '/' | absolute_url }}">Articles</a></h2>
-          </header> -->
-          <ul>
-
-            <br>
-            <li><a href="{{ 'about.html' | absolute_url }}">About</a></li>
-            <!-- <li><a href="{{ 'categories.html' | absolute_url }}">All Posts</a></li> -->
-            <!-- <li><a href="{{ 'elements.html' | absolute_url }}">Contact</a></li> -->
-
-          </ul>
-        </nav>
-
-
-
-
-
-      <!-- Section -->
-        <!-- <section>
-          <header class="major">
-            <h2>Ante interdum</h2>
-          </header>
-          <div class="mini-posts">
-            <article>
-              <a href="#" class="image"><img src="assets/images/pic07.jpg" alt="" /></a>
-              <p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore aliquam.</p>
-            </article>
-            <article>
-              <a href="#" class="image"><img src="assets/images/pic08.jpg" alt="" /></a>
-              <p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore aliquam.</p>
-            </article>
-            <article>
-              <a href="#" class="image"><img src="assets/images/pic09.jpg" alt="" /></a>
-              <p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore aliquam.</p>
-            </article>
-          </div>
-          <ul class="actions">
-            <li><a href="#" class="button">More</a></li>
-          </ul>
-        </section> -->
-
-      <!-- Section -->
-        <!-- <section>
-          <header class="major">
-            <h2>Get in touch</h2>
-          </header>
-          <p>Sed varius enim lorem ullamcorper dolore aliquam aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin sed aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
-          <ul class="contact">
-            <li class="fa-envelope-o"><a href="#">{{ site.email }}</a></li>
-            <li class="fa-phone">{{ site.phone }}</li>
-            <li class="fa-home">{{ site.street_address }}<br />
-            {{ site.city }}, {{ site.state }} {{ site.zip_code }}<br />
-            {{ site.country }}</li>
-          </ul>
-        </section> -->
-
-      <!-- Footer -->
-        <footer id="footer">
-          <p class="copyright">&copy; {{ site.title }}. All rights reserved. <BR>Design: <a href="https://html5up.net">HTML5 UP</a>. </p>
-        </footer>
-    </div>
+    <!-- Footer -->
+      <footer id="footer">
+        <p class="copyright">&copy; {{ site.title }}. All rights reserved. <BR>Design: <a href="https://html5up.net">HTML5 UP</a>. </p>
+      </footer>
   </div>
+</div>

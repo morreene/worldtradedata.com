@@ -12,7 +12,6 @@ title: About
     <p>Send a <em>message</em> <strong>below</strong>. </p>
     <div class="col col-sm-6">
       <form method="POST" action="https://formspree.io/morreene@gmail.com">
-        <input name="from" type="hidden" value="worldtradedata.com">
         <input type="email" name="email" placeholder="Your email" class="form-control">
         <br>
         <textarea name="message" placeholder="Your message" class="form-control"></textarea>

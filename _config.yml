@@ -1,6 +1,6 @@
 # Site settings
 title: WORLD TRADE DATA
-subtitle: ... understand trade via data
+subtitle:
 email: morreene@gmail.com
 description: A FREE AND FULLY RESPONSIVE SITE TEMPLATE
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -38,7 +38,7 @@ plugins:
   # - jekyll-feed
   # - jekyll-gist
   # - jekyll-optional-front-matter
-  - jekyll-paginate
+  # - jekyll-paginate
   # - jekyll-readme-index
   # - jekyll-redirect-from
   - jekyll-relative-links
@@ -47,8 +47,8 @@ plugins:
   # - jekyll-sitemap
   # - jekyll-titles-from-headings
 
-paginate:              10
-paginate_path:         /page-:num/
+# paginate:              10
+# paginate_path:         /page-:num/
 
 # Collections
 # ========================================================================================
