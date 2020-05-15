@@ -16,7 +16,6 @@ tags: [database, trade, economy]
 
 ## Tariffs
 
-
 - [US Harmonized Tariff Schedule](https://hts.usitc.gov/)
 - NEW [ITC Macmap](https://beta.macmap.org/)
 - [WITS](https://wits.worldbank.org/)
@@ -27,8 +26,6 @@ tags: [database, trade, economy]
 
 ## Trade Statistics
 
-‌
-
 - [US Census US Trade Online: trade statistics at HS 10-digit](https://usatrade.census.gov/)
 - [Trade Data Monitor](https://www.tradedatamonitor.com/)
 - [EU Trade statistics](https://trade.ec.europa.eu/tradehelp/statistics)
@@ -36,8 +33,6 @@ tags: [database, trade, economy]
 ‌
 
 ## Customs Classification
-
-‌
 
 - [US Customs Ruling on classification](https://rulings.cbp.gov/)
 - [Eurostat Reference and Management of Nomenclatures (RAMON)](http://ec.europa.eu/eurostat/ramon/index.cfm?TargetUrl=DSP_PUB_WELC)
@@ -50,15 +45,10 @@ tags: [database, trade, economy]
 
 ## Non-tariff Measures
 
-‌
-
 - [GLOBAL TRADE ALERT](https://www.globaltradealert.org/)
 
-‌
 
 ## WTO
-
-‌
 
 - [WTO Trade Facilitation Database](https://www.tfadatabase.org/)
 - [WTO Environment database](https://edb.wto.org/)
@@ -70,16 +60,12 @@ tags: [database, trade, economy]
 
 ## Visualization
 
-‌
-
 - [MIT: Observatory of Economic Complexity](https://atlas.media.mit.edu/en/)
 - [Our World in Data](https://ourworldindata.org/)
 
 ‌
 
 ## **Services**
-
-‌
 
 - [UNSD](https://unstats.un.org/unsd/nationalaccount/data.asp)
 - [Chinese data](http://www.safe.gov.cn/wps/portal/sy/tjsj_szphb)
@@ -89,15 +75,11 @@ tags: [database, trade, economy]
 
 ## Economic
 
-‌
-
 - [AMNE Database – Activity of Multinational Enterprises](http://www.oecd.org/sti/ind/amne.htm)
 
 ‌
 
 ## Other
-
-‌
 
 - [EU: Communication and Information Resource Centre for Administrations, Businesses and Citizens](https://circabc.europa.eu/faces/jsp/extension/wai/navigation/container.jsp)
 - [https://www.joc.com/regulation-policy/trade-data](https://www.joc.com/regulation-policy/trade-data)
