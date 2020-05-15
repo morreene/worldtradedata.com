@@ -6,13 +6,17 @@ tags: [database, trade, economy]
 ---
 
 ## General
-- [Global Trade Helpdesk](http://beta.helpmetrade.org/){:target="_blank"}
-- [GlobalStat](https://globalstat.eu/){:target="_blank"}
-- [TCdata360 - Open Trade and Competitiveness Data](https://tcdata360.worldbank.org/){:target="_blank"}
-- [ABRAMS world trade wiki](https://en.abrams.wiki/){:target="_blank"}
 
+- [Global Trade Helpdesk](http://beta.helpmetrade.org/)
+- [GlobalStat](https://globalstat.eu/)
+- [TCdata360 - Open Trade and Competitiveness Data](https://tcdata360.worldbank.org/)
+- [ABRAMS world trade wiki](https://en.abrams.wiki/)
+
+‌
 
 ## Tariffs
+
+
 - [US Harmonized Tariff Schedule](https://hts.usitc.gov/)
 - NEW [ITC Macmap](https://beta.macmap.org/)
 - [WITS](https://wits.worldbank.org/)
@@ -21,7 +25,10 @@ tags: [database, trade, economy]
 
 ‌
 
-## Statistics
+## Trade Statistics
+
+‌
+
 - [US Census US Trade Online: trade statistics at HS 10-digit](https://usatrade.census.gov/)
 - [Trade Data Monitor](https://www.tradedatamonitor.com/)
 - [EU Trade statistics](https://trade.ec.europa.eu/tradehelp/statistics)
@@ -29,13 +36,22 @@ tags: [database, trade, economy]
 ‌
 
 ## Customs Classification
+
+‌
+
 - [US Customs Ruling on classification](https://rulings.cbp.gov/)
 - [Eurostat Reference and Management of Nomenclatures (RAMON)](http://ec.europa.eu/eurostat/ramon/index.cfm?TargetUrl=DSP_PUB_WELC)
 - [Online HS classification](https://uscensus.prod.3ceonline.com/)
+- EU: [Binding Tariff Information (BTI)](https://ec.europa.eu/taxation_customs/business/calculation-customs-duties/what-is-common-customs-tariff/binding-tariff-information-bti_en)
+- [US Census Online HS classification](https://uscensus.prod.3ceonline.com/)
+- [US CustomsMobile](https://www.customsmobile.com/rulings) classification and rulings
 
 ‌
 
 ## Non-tariff Measures
+
+‌
+
 - [GLOBAL TRADE ALERT](https://www.globaltradealert.org/)
 
 ‌
@@ -85,3 +101,7 @@ tags: [database, trade, economy]
 
 - [EU: Communication and Information Resource Centre for Administrations, Businesses and Citizens](https://circabc.europa.eu/faces/jsp/extension/wai/navigation/container.jsp)
 - [https://www.joc.com/regulation-policy/trade-data](https://www.joc.com/regulation-policy/trade-data)
+
+## Commercial
+
+- [Trade Foresight](http://www.tradeforesight.com/)
